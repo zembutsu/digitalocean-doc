@@ -215,7 +215,7 @@ SSH 鍵の管理
 プライベート・ネットワーク
 ------------------------------
 
-.. image:: ./images/billing-alert.png
+.. image:: ./images/private-network.png
    :scale: 60%
 
 * 各リージョン毎に独立した共有プライベート・ネットワークがあります。
