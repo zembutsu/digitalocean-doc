@@ -28,3 +28,12 @@ html_static_path = ['_static']
 html_search_language = 'ja'
 htmlhelp_basename = 'DigitalOcean-Guide'
 
+# for sphinx-docxbuilder ( To output document with Microsoft Word Format )
+extensions = ['sphinx-docxbuilder']
+docx_title = u'DigitalOcean 導入ガイド'
+docx_subject = 'Version 0.1.0'
+docx_descriptions = 'https://github.com/zembutsu/digitalocean-doc'
+docx_creator = 'Masahito Zembutsu <m.zembutsu@gmail.com> (@zembutsu)'
+docx_keywords = ['Sphinx', 'OpenXML']
+docx_style= '/home/zembutsu/Desktop/DigitalOcean/digitalocean-doc/style.docx'
+

@@ -1,4 +1,7 @@
 .git
 build
+docx
+docx.log
+style.docx
 .python-version
 
